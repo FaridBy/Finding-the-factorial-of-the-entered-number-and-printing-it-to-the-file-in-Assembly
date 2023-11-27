@@ -1,0 +1,1 @@
+# Finding-the-factorial-of-the-entered-number-and-printing-it-to-the-file-in-Assembly
